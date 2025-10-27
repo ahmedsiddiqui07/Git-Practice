@@ -10,5 +10,5 @@ function shared() {
 
 function ahmed(){
     console.log("This is ahmed's function")
-    return 'Ahmed'
+    return 'Ahmedd'
 }
