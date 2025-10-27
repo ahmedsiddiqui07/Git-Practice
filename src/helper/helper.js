@@ -59,7 +59,7 @@ const hashPassword = async (password) => {
     console.log(error);
   }
 };
-4//generate access token
+4//generate access tokenfgdgfd
 const generateAccessToken = async (userId) => {
   return jwt.sign({ id: userId }, process.env.JWT_SECRET_KEY, {
     expiresIn: process.env.JWT_EXPIRES,
