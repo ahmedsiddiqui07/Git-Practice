@@ -16,3 +16,5 @@ function ahmed() {
 function testingGithub() {
     console.log("testing ")
 }
+
+const test02 = () => console.log("tesing")
