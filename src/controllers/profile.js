@@ -8,8 +8,8 @@ function shared() {
     return 'Shared'
 }
 
-function ahmed(){
-    console.log("This is ahmed's function")
+function ahmedsiddiqui(){
+    console.log("This is siddiqui ahmed's function")
     return 'Ahmedd'
 }
 
