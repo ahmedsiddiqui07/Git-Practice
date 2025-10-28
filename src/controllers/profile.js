@@ -16,3 +16,7 @@ function ahmed() {
 function testingGithub() {
     console.log("testing ")
 }
+
+function arshiqFunction(){
+    console.log('hello world');
+}
