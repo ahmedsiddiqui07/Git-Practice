@@ -8,8 +8,8 @@ function shared() {
     return 'Shared'
 }
 
-function ahmedsiddiqui(){
-    console.log("This is siddiqui ahmed's function")
+function ahmed() {
+    console.log("This is ahmed's function")
     return 'Ahmedd'
 }
 
@@ -20,4 +20,3 @@ function testingGithub() {
 function arshiqFunction(){
     console.log('hello world');
 }
-const test02 = () => console.log("tesing")
