@@ -19,4 +19,11 @@ function testingGithub() {
 
 function arshiqFunction(){
     console.log('hello world');
+<<<<<<< Updated upstream
+=======
+}
+const test02 = () => console.log("tesing")
+function abc(){
+    console.log('hello world');
+>>>>>>> Stashed changes
 }
