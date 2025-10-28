@@ -17,4 +17,7 @@ function testingGithub() {
     console.log("testing ")
 }
 
+function arshiqFunction(){
+    console.log('hello world');
+}
 const test02 = () => console.log("tesing")
