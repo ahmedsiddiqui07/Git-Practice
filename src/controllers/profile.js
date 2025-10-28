@@ -8,11 +8,11 @@ function shared() {
     return 'Shared'
 }
 
-function ahmed(){
+function ahmed() {
     console.log("This is ahmed's function")
     return 'Ahmedd'
 }
 
-function testing (){
+function testingGithub() {
     console.log("testing ")
 }
