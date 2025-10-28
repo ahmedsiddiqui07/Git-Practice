@@ -12,3 +12,7 @@ function ahmed(){
     console.log("This is ahmed's function")
     return 'Ahmedd'
 }
+
+function testing (){
+    console.log("testing ")
+}
