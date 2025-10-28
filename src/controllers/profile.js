@@ -1,5 +1,5 @@
-function usman() {
-    console.log("This is usman function")
+function arshiq() {
+    console.log("This is arshiq function")
     return true
 }
 
